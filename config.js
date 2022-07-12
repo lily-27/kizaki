@@ -23,7 +23,7 @@ global.Prefix = 'Multi Prefix'
 global.meki = '6283171252216'
 global.footer = 'ramakawaimd'
 //Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = 'Lidiaa' //Ubah nama kalian buat nambahin di tqtq bot
+global.namalu = 'rama' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
 global.yt = 'https://www.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
@@ -36,7 +36,7 @@ global.email = 'helloiamkizakixd@gmail.com'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
 global.sc = 'https://bit.ly/'
-global.packname = '"{\nAuthor: Lidia"\n"Bot Number: 6283145534242"\n"Bot Name: 𝗹𝗶𝗱𝗶𝗮-𝗺𝗱"\n"Instagram: @menggsmail"\n}' 
+global.packname = '"{\nAuthor: rama"\n"Bot Number: 6283145534242"\n"Bot Name: 𝗹𝗶𝗱𝗶𝗮-𝗺𝗱"\n"Instagram: @menggsmail"\n}' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
