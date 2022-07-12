@@ -10,18 +10,18 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['62838141607117']
-global.pengguna = '𝗹𝗶𝗱𝗶𝗮-𝗺𝗱'
+global.owner = ['6283171252216']
+global.pengguna = 'ramaikawaimd'
 global.premium = []
-global.author = '𝗹𝗶𝗱𝗶𝗮'
-global.pemilik = ['62838141607117'] 
-global.ownernomer = '62838141607117'
-global.ownername = '𝗹𝗶𝗱𝗶𝗮'
-global.botname = '𝗹𝗶𝗱𝗶𝗮-𝗺𝗱'
+global.author = 'rama'
+global.pemilik = ['6283171252216'] 
+global.ownernomer = '6283171252216'
+global.ownername = 'rama'
+global.botname = 'ramakawaimd'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '62838141607117'
-global.footer = '𝗹𝗶𝗱𝗶𝗮-𝗺𝗱'
+global.meki = '6283171252216'
+global.footer = 'ramakawaimd'
 //Isi Sesuai Namalu Buat Tambah Tqtq
 global.namalu = 'Lidiaa' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot.'
@@ -29,9 +29,9 @@ global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
 global.yt = 'https://www.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
 global.ig = 'https://instagram.com/menggsmail'
 global.gc = 'https://chat.whatsapp.com/' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
-global.dana = '083814160711'
-global.gopay = '083814160711'
-global.wame = 'wa.me/0838141607117'
+global.dana = ''
+global.gopay = ''
+global.wame = 'wa.me/6283171252216'
 global.email = 'helloiamkizakixd@gmail.com'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
